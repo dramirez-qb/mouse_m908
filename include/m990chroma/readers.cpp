@@ -403,7 +403,7 @@ int mouse_m990chroma::read_settings(){
 		}
 		
 		// button mapping
-		for( int j = 0; j < 20; j++ ){
+		for( int j = 0; j < 8; j++ ){
 			
 			_s_keymap_data[i-1][j][0] = buffer_in3[j+(20*(i-1))][8];
 			_s_keymap_data[i-1][j][1] = buffer_in3[j+(20*(i-1))][9];
