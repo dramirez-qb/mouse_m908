@@ -1,5 +1,5 @@
 project('mouse_m908', ['cpp', 'c'],
-          version: '3.3',
+          version: '3.5',
     meson_version: '>= 0.59.0',
   default_options: [ 'warning_level=2',
                      'cpp_std=c++17',
@@ -49,4 +49,3 @@ endif
 install_data('mouse_m908.1',
   install_dir: get_option('mandir')
 )
-
