@@ -292,5 +292,10 @@ With these options the USB bus id and device number can be specified. This is us
 
 On some systems libusb might not be able to detect or detach kernel drivers, this results in a failure because the mouse can not be opened. This options skips this step.
 
+## GUIs
+This program does not have any official or builtin graphical interface, however third-party GUIs do exist:
+- https://github.com/Tayvall/m908-gui
+- https://github.com/robinsiebler/mouse-config-gui
+
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
