@@ -31,6 +31,7 @@ Control Redragon gaming mice from Linux, BSD and Haiku
 		- [Macro file](#macro-file)
 	- [--bus and --device options](#--bus-and---device-options)
 	- [--kernel-driver option](#--kernel-driver-option)
+- [GUIs](#guis)
 - [License](#license)
 
 ## Supported mice
