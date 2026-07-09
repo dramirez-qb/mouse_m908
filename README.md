@@ -63,7 +63,7 @@ Redragon M990 Legend (RGB/Chroma) | experimental | 0x04d9:0xfc41 | - Changing th
 Redragon M702-2 Phoenix | generic | 0x04d9:0xfc2f | - Changing the led mode and color works
 Redragon M909 Emperor | generic | 0x04d9:0xfc42 | [please read this](#generic-support)
 Redragon M802 Titanoboa 2 | generic | 0x04d9:0xfc42 | [please read this](#generic-support)
-Redragon 2858 (?) | generic | 0x04d9:0xfc5e | [please read this](#generic-support)
+Redragon M901-K-2 "Perdition4" | generic | 0x04d9:0xfc5e | [please read this](#generic-support)
 Redragon 2805 (?) | generic | 0x04d9:0xfc58 | [please read this](#generic-support)
 Redragon M612-RGB Predator | generic | 0x04d9:0xfc61 | [please read this](#generic-support)
 Redragon M901 Perdition | generic | 0x04d9:0xfc02 | [please read this](#generic-support)
